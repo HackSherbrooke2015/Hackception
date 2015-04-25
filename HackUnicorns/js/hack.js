@@ -10,12 +10,14 @@
 	    context.drawImage(background,500,310);   
 		context.beginPath();
 		// #sadface D:
-		context.arc(520, 400, 8, Math.PI, 0, false);
+		context.arc(520, 393, 8, 0, Math.PI, false);
 		context.closePath();
 		context.lineWidth = 2;
 		context.fillStyle = 'pink';
 		context.fill();
 		context.strokeStyle = '#550000';
 		context.stroke();
+		
+		
 	};
 })();
