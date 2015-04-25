@@ -1,36 +1,46 @@
 body {
-	background-color: #000;
+    background-color: #000;
 }
 .dereck-part {
-	position: absolute;
+    position: absolute;
 }
 #gangeticus {
-
+    top: 60px;
+    left: 108px;
 }
 #mindorensis {
-
+    top: 602px;
+    left: 522px;
 }
 #_moreletii {
-
+    top:602px;
+    left:108px;
 }
 #niloticus {
-
+    top: 462px;
+    left: 108px;
 }
 #novaeguineae {
-
+    top: 462px;
+    left: 522px;
 }
 #porosus {
-
+    top: 323px;
+    left: 522px;
 }
 #rhombifer {
-
+    top: 323px;
+    left: 386px;
 }
 #schlegelii {
-
+    top: 323px;
+    left: 108px;
 }
 #siamensis {
-
+    top: 323px;
+    left: 247px;
 }
 #tetraspis {
-
+    top: 184px;
+    left: 108px;
 }
