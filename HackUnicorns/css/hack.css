@@ -1,0 +1,12 @@
+body {
+	background-color: #7EC0EE;
+	text-align: center;
+}
+#unicorns {
+	width: 700px;
+	height: 500px;
+	margin: 0 auto;
+	background-image: url(../img/unicorn.png);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}
