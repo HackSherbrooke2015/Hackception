@@ -1,11 +1,14 @@
 body {
-	background-color: #7EC0EE;
+	background-image: url(../img/allo.jpg);
+	width: 700px;
+	height: 500px;
 	text-align: center;
+	background-repeat: no-repeat;
+	
 }
 #unicorns {
 	width: 700px;
 	height: 500px;
-	margin: 0 auto;
 	background-image: url(../img/unicorn.png);
 	background-repeat: no-repeat;
 	background-position: bottom right;

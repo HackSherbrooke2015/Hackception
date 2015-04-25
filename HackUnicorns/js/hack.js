@@ -10,7 +10,7 @@
 	    context.drawImage(background,500,310);   
 		context.beginPath();
 		// #sadface D:
-		context.arc(520, 400, 8, Math.PI, 0, false);
+		context.arc(520, 390, 8, Math.PI, 0, true);
 		context.closePath();
 		context.lineWidth = 2;
 		context.fillStyle = 'pink';
